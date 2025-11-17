@@ -6,3 +6,5 @@ py-tgcalls==2.0.1
 tgcrypto==1.2.5
 youtube-search-python
 yt-dlp==2023.12.30
+git+https://github.com/pytgcalls/pytgcalls@3.0.0.dev6#egg=pytgcalls
+git+https://github.com/pytgcalls/ntgcalls@1.0.1#egg=ntgcalls
