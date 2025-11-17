@@ -6,5 +6,5 @@ tgcrypto==1.2.5
 youtube-search-python
 yt-dlp==2023.12.30
 
-pytgcalls==0.0.27
+pytgcalls==2.1.0
 ntgcalls==1.1.0
