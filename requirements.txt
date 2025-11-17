@@ -6,5 +6,6 @@ tgcrypto==1.2.5
 youtube-search-python
 yt-dlp==2023.12.30
 
-git+https://github.com/pytgcalls/pytgcalls.git@master
-git+https://github.com/pytgcalls/ntgcalls.git@master
+# Working pytgcalls version for Pyrogram 2.0
+git+https://github.com/pytgcalls/pytgcalls.git@3.0.0.dev6
+git+https://github.com/pytgcalls/ntgcalls.git@3.0.0.dev6
