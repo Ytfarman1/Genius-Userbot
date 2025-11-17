@@ -6,5 +6,5 @@ tgcrypto==1.2.5
 youtube-search-python
 yt-dlp==2023.12.30
 
-git+https://github.com/MarshalX/pytgcalls.git@master#egg=pytgcalls
-git+https://github.com/MarshalX/ntgcalls.git@master#egg=ntgcalls
+git+https://github.com/pytgcalls/pytgcalls.git@master
+git+https://github.com/pytgcalls/ntgcalls.git@master
