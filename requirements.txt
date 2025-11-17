@@ -1,11 +1,9 @@
+
 asyncio==3.4.3
 motor==3.3.2
-pyrogram==2.0.106
+pyrogram-dev==2.1.0
 python-dotenv==1.0.1
+py-tgcalls==2.0.1
 tgcrypto==1.2.5
 youtube-search-python
 yt-dlp==2023.12.30
-
-# Working pytgcalls version for Pyrogram 2.0
-git+https://github.com/pytgcalls/pytgcalls.git@3.0.0.dev6
-git+https://github.com/pytgcalls/ntgcalls.git@3.0.0.dev6
